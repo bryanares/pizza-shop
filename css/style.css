@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/css?family=Poppins";
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar{
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+.jumbotron{
+    background: url(../img/pizza.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
